@@ -1,0 +1,26 @@
+# .gitignore Datei
+
+# Versteckte Dateien
+.DS_Store
+Thumbs.db
+
+# Umgebungsvariablen & Secrets (NICHT hochladen!)
+.env
+.env.local
+*.key
+*.pem
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor-Dateien
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build Outputs
+dist/
+build/
+node_modules/
