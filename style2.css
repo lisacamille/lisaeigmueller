@@ -5,9 +5,9 @@ body {
 }
 
 .textbox {
-    position: absolute;
-    top: 350px;
-    left: 400px;
+    position: relative;
+    top: 250px;
+    object-position: center;
     height:350px;
     width:500px;
     margin: auto;
@@ -113,9 +113,9 @@ div.desc {
 }
 
 .positionlink {
-    position: absolute;
-    top: 950px;
-    left: 700px;
+    position: relative;
+    text-align: center;
+    top: 900px;
     z-index: 2;
 }
 

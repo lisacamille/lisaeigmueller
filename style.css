@@ -84,10 +84,13 @@ div.desc {
 }
 
 .positionlink {
-    position: absolute;
-    top: 950px;
-    left: 700px;
+    position: relative;
+    text-align: center;
+    top: 850px;
     z-index: 2;
+    
+    
+    
 }
 
 .scroll-left {
