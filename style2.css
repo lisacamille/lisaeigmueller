@@ -6,9 +6,8 @@ body {
 
 .textbox {
     position: relative;
-    top: 250px;
     object-position: center;
-    height:350px;
+    top: 200px;
     width:500px;
     margin: auto;
     padding: 60px;
